@@ -1,0 +1,45 @@
+D:\k190144_Q1\bin\Debug\net6.0\k190144_Q1.exe
+D:\k190144_Q1\bin\Debug\net6.0\k190144_Q1.deps.json
+D:\k190144_Q1\bin\Debug\net6.0\k190144_Q1.runtimeconfig.json
+D:\k190144_Q1\bin\Debug\net6.0\k190144_Q1.dll
+D:\k190144_Q1\bin\Debug\net6.0\k190144_Q1.pdb
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.csproj.AssemblyReference.cache
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.AssemblyInfoInputs.cache
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.AssemblyInfo.cs
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.csproj.CoreCompileInputs.cache
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.dll
+D:\k190144_Q1\obj\Debug\net6.0\refint\k190144_Q1.dll
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.pdb
+D:\k190144_Q1\obj\Debug\net6.0\k190144_Q1.genruntimeconfig.cache
+D:\k190144_Q1\obj\Debug\net6.0\ref\k190144_Q1.dll
+C:\Users\faisal.malik\Desktop\k190144_Q1\bin\Debug\net6.0\k190144_Q1.exe
+C:\Users\faisal.malik\Desktop\k190144_Q1\bin\Debug\net6.0\k190144_Q1.deps.json
+C:\Users\faisal.malik\Desktop\k190144_Q1\bin\Debug\net6.0\k190144_Q1.runtimeconfig.json
+C:\Users\faisal.malik\Desktop\k190144_Q1\bin\Debug\net6.0\k190144_Q1.dll
+C:\Users\faisal.malik\Desktop\k190144_Q1\bin\Debug\net6.0\k190144_Q1.pdb
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.csproj.AssemblyReference.cache
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.AssemblyInfoInputs.cache
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.AssemblyInfo.cs
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.csproj.CoreCompileInputs.cache
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.dll
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\refint\k190144_Q1.dll
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.pdb
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\k190144_Q1.genruntimeconfig.cache
+C:\Users\faisal.malik\Desktop\k190144_Q1\obj\Debug\net6.0\ref\k190144_Q1.dll
+D:\Assignment 1\k190144_Q1\bin\Debug\net6.0\k190144_Q1.exe
+D:\Assignment 1\k190144_Q1\bin\Debug\net6.0\k190144_Q1.deps.json
+D:\Assignment 1\k190144_Q1\bin\Debug\net6.0\k190144_Q1.runtimeconfig.json
+D:\Assignment 1\k190144_Q1\bin\Debug\net6.0\k190144_Q1.dll
+D:\Assignment 1\k190144_Q1\bin\Debug\net6.0\k190144_Q1.pdb
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.csproj.AssemblyReference.cache
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.AssemblyInfoInputs.cache
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.AssemblyInfo.cs
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.csproj.CoreCompileInputs.cache
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.dll
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\refint\k190144_Q1.dll
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.pdb
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\k190144_Q1.genruntimeconfig.cache
+D:\Assignment 1\k190144_Q1\obj\Debug\net6.0\ref\k190144_Q1.dll

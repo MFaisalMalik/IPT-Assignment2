@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Assignment 2\k190144_Q1\bin\Debug\k190144_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment 2\k190144_Q1\bin\Debug\k190144_Q1.InstallLog
+   assemblypath = D:\Assignment 2\k190144_Q1\bin\Debug\k190144_Q1.exe
+Installing service k190144_Q1...
+Service k190144_Q1 has been successfully installed.
+Creating EventLog source k190144_Q1 in log Application...
+Committing assembly 'D:\Assignment 2\k190144_Q1\bin\Debug\k190144_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment 2\k190144_Q1\bin\Debug\k190144_Q1.InstallLog
+   assemblypath = D:\Assignment 2\k190144_Q1\bin\Debug\k190144_Q1.exe

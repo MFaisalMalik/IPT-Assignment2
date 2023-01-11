@@ -1,0 +1,10 @@
+D:\Assignment 2\k190144_Q2\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Assignment 2\k190144_Q2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Assignment 2\k190144_Q2\ClassLibrary\bin\Debug\HtmlAgilityPack.dll
+D:\Assignment 2\k190144_Q2\ClassLibrary\bin\Debug\HtmlAgilityPack.pdb
+D:\Assignment 2\k190144_Q2\ClassLibrary\bin\Debug\HtmlAgilityPack.xml
+D:\Assignment 2\k190144_Q2\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+D:\Assignment 2\k190144_Q2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Assignment 2\k190144_Q2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+D:\Assignment 2\k190144_Q2\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Assignment 2\k190144_Q2\ClassLibrary\obj\Debug\ClassLibrary.pdb
